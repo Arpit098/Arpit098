@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arpit%20Agrawala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Blockchain%20Developer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arpit%20Agrawala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+on+Solana+%26+EVM+chains;Smart+contracts+%7C+dApps+%7C+Infra;Shipping+hackathon+projects+%40+ETHGlobal;Based+in+Gurugram%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+scalable+backends+%26+products;Web3+%7C+Cloud+%7C+AI-assisted+development;Based+in+Gurugram%2C+India)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Arpit098&label=Profile%20Views&color=7c3aed&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/Arpit098?style=flat-square&color=7c3aed&logo=github)
@@ -13,9 +13,12 @@
 
 ## 👋 About Me
 
-- 🔗 Fullstack developer specialising in **blockchain / Web3** — from Solidity & Anchor programs to React/Next.js frontends and Node backends
-- 🧱 Built NFT marketplaces, token-sale & vesting platforms, cross-chain bridges and wallet-security tooling
-- 🤖 Currently tinkering with **AI agents** (voice assistants, Claude-powered tooling) alongside on-chain infra
+- 💻 **Software engineer** who builds end to end: backend services, cloud infrastructure, CI/CD pipelines and polished frontends, with deep experience in **Web3** (Solidity, Solana programs, EVM infra)
+- 🔭 **Currently working on:**
+  - [**app.cropr.finance**](https://app.cropr.finance) 🌾
+  - [**cracker.fun**](https://cracker.fun) 🎮
+- 🤖 **AI-native workflow:** I use AI agents daily to boost productivity and ship fast, using AI efficiently to bring out the best quality in the product while keeping speed high
+- ☁️ Comfortable on **GCP**, containerising with **Docker** and automating delivery with **CI/CD**
 - 📍 Gurugram, India
 
 ---
@@ -47,18 +50,39 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Databases
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud & DevOps
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### AI-Assisted Development
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🔥 Currently Building
+
+| Project | Link |
+|---|---|
+| 🌾 **Cropr Finance** | [app.cropr.finance](https://app.cropr.finance) |
+| 🎮 **Cracker.fun** | [cracker.fun](https://cracker.fun) |
 
 ---
 
