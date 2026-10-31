@@ -95,11 +95,7 @@
 
 </div>
 
-<img src="assets/cropr-logo.png" height="36" align="left" hspace="12" alt="Cropr logo" />
-
-### [Cropr Finance](https://app.cropr.finance)
-
-<br clear="left"/>
+### <img src="assets/cropr-logo.png" height="32" align="absmiddle" alt="Cropr logo" />&nbsp; [Cropr Finance](https://app.cropr.finance)
 
 > **The Digital Asset Copilot.** Portfolio intelligence, risk analysis and controlled execution for professional investors and institutions across digital asset markets, without giving up custody.
 
@@ -112,11 +108,7 @@
 
 <br/>
 
-<img src="assets/cracker-logo.png" height="36" align="left" hspace="12" alt="Cracker.fun logo" />
-
-### [Cracker.fun](https://cracker.fun)
-
-<br clear="left"/>
+### <img src="assets/cracker-logo.png" height="32" align="absmiddle" alt="Cracker.fun logo" />&nbsp; [Cracker.fun](https://cracker.fun)
 
 > **Launch a token, earn forever.** A token-launch platform where creators launch tokens and keep earning from them over time.
 
