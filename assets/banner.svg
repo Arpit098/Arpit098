@@ -46,9 +46,9 @@
     <g transform="translate(92 70) rotate(-6 100 100)">
       <rect x="14" y="16" width="200" height="200" rx="44" fill="url(#iconSide)"/>
       <rect x="0" y="0" width="200" height="200" rx="44" fill="url(#icon)" stroke="#ffffff" stroke-opacity="0.12" stroke-width="2"/>
-      <circle cx="46" cy="42" r="5" fill="#ff5f57"/>
-      <circle cx="64" cy="42" r="5" fill="#febc2e"/>
-      <circle cx="82" cy="42" r="5" fill="#28c840"/>
+      <circle cx="46" cy="42" r="5" fill="#EF4444"/>
+      <circle cx="64" cy="42" r="5" fill="#E5E5E5"/>
+      <circle cx="82" cy="42" r="5" fill="#3B82F6"/>
       <path d="M58 98 L92 124 L58 150" stroke="#ffffff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
       <path d="M112 152 H150" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
     </g>
@@ -56,5 +56,7 @@
     <!-- text -->
     <text x="360" y="178" font-family="Georgia,'Palatino Linotype',Palatino,'Times New Roman',serif" font-size="64" fill="#ffffff">Hey ! I’m Arpit Agrawala</text>
     <text x="1064" y="238" text-anchor="end" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" fill="#e6e6e6">Software Engineer</text>
+    <rect x="964" y="252" width="62" height="3" rx="1.5" fill="#3B82F6"/>
+    <rect x="1030" y="252" width="34" height="3" rx="1.5" fill="#EF4444"/>
   </g>
 </svg>
