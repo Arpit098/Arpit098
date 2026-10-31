@@ -95,7 +95,27 @@
 
 </div>
 
-### 🎮 [Cracker.fun](https://cracker.fun)
+<img src="assets/cropr-logo.png" height="48" align="left" hspace="12" alt="Cropr logo" />
+
+### [Cropr Finance](https://app.cropr.finance)
+
+<br clear="left"/>
+> **The Digital Asset Copilot.** Portfolio intelligence, risk analysis and controlled execution for professional investors and institutions across digital asset markets, without giving up custody.
+
+**My role: Full-stack Developer**
+
+- 📊 Building the digital asset portfolio and execution platform used by institutions and professional operators
+- 🔐 Non-custodial by design: from fragmented positions to informed decisions and controlled execution
+
+🔗 **[Open app.cropr.finance →](https://app.cropr.finance)** · [Website](https://cropr.finance)
+
+<br/>
+
+<img src="assets/cracker-logo.png" height="48" align="left" hspace="12" alt="Cracker.fun logo" />
+
+### [Cracker.fun](https://cracker.fun)
+
+<br clear="left"/>
 > **Launch a token, earn forever.** A token-launch platform where creators launch tokens and keep earning from them over time.
 
 **My role: Full-stack Developer**
@@ -111,18 +131,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 🔗 **[Visit cracker.fun →](https://cracker.fun)**
-
-<br/>
-
-### 🌾 [Cropr Finance](https://app.cropr.finance)
-> **The Digital Asset Copilot.** Portfolio intelligence, risk analysis and controlled execution for professional investors and institutions across digital asset markets, without giving up custody.
-
-**My role: Full-stack Developer**
-
-- 📊 Building the digital asset portfolio and execution platform used by institutions and professional operators
-- 🔐 Non-custodial by design: from fragmented positions to informed decisions and controlled execution
-
-🔗 **[Open app.cropr.finance →](https://app.cropr.finance)** · [Website](https://cropr.finance)
 
 ---
 
