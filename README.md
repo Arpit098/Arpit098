@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arpit%20Agrawala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+scalable+backends+%26+products;Web3+%7C+Cloud+%7C+AI-assisted+development;Based+in+Gurugram%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer;Scalable+server-side+%26+cloud+hosting;LLM+apps+with+LangChain;Web3+%7C+AI-assisted+development;Based+in+Gurugram%2C+India)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Arpit098&label=Profile%20Views&color=7c3aed&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/Arpit098?style=flat-square&color=7c3aed&logo=github)
@@ -13,7 +13,10 @@
 
 ## 👋 About Me
 
-- 💻 **Software engineer** who builds end to end: backend services, cloud infrastructure, CI/CD pipelines and polished frontends, with deep experience in **Web3** (Solidity, Solana programs, EVM infra)
+- 💻 **Software engineer** who builds end to end: backend services, cloud infrastructure, CI/CD pipelines and polished frontends
+- 🏗️ **Server-side & infrastructure:** I design and run **scalable hosting environments**, containerised services, cloud deployments and automated delivery pipelines
+- 🧠 **AI / LLM applications:** I build agent and LLM-powered apps with **LangChain** (chains, tools, retrieval, agents)
+- ⛓️ **Web3:** one area among several, with experience in Solidity, Solana programs and EVM infra
 - 🔭 **Currently working on:**
   - [**app.cropr.finance**](https://app.cropr.finance) 🌾
   - [**cracker.fun**](https://cracker.fun) 🎮
@@ -25,7 +28,7 @@
 
 ## 🛠️ Tech Stack
 
-### Blockchain & Smart Contracts
+### Web3 & Smart Contracts
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -50,9 +53,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
+### AI / LLM
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-7C3AED?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logoColor=white)
+
+### Backend & Server-side
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white)
+![Scalable Hosting](https://img.shields.io/badge/Scalable_Hosting-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
