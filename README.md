@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Arpit Agrawala, Software Engineer" />
+<img src="assets/banner.svg" width="100%" alt="Hey! I'm Arpit Agrawala, Software Engineer" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer;Scalable+server-side+%26+cloud+hosting;LLM+apps+with+LangChain;Web3+%7C+AI-assisted+development;Based+in+Gurugram%2C+India)](https://git.io/typing-svg)
 
