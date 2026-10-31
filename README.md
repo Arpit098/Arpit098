@@ -95,7 +95,7 @@
 
 </div>
 
-<img src="assets/cropr-logo.png" height="48" align="left" hspace="12" alt="Cropr logo" />
+<img src="assets/cropr-logo.png" height="36" align="left" hspace="12" alt="Cropr logo" />
 
 ### [Cropr Finance](https://app.cropr.finance)
 
@@ -103,7 +103,7 @@
 
 > **The Digital Asset Copilot.** Portfolio intelligence, risk analysis and controlled execution for professional investors and institutions across digital asset markets, without giving up custody.
 
-**My role: Full-stack Developer**
+**My role: Full-stack Blockchain Developer**
 
 - 📊 Building the digital asset portfolio and execution platform used by institutions and professional operators
 - 🔐 Non-custodial by design: from fragmented positions to informed decisions and controlled execution
@@ -112,7 +112,7 @@
 
 <br/>
 
-<img src="assets/cracker-logo.png" height="48" align="left" hspace="12" alt="Cracker.fun logo" />
+<img src="assets/cracker-logo.png" height="36" align="left" hspace="12" alt="Cracker.fun logo" />
 
 ### [Cracker.fun](https://cracker.fun)
 
@@ -120,8 +120,9 @@
 
 > **Launch a token, earn forever.** A token-launch platform where creators launch tokens and keep earning from them over time.
 
-**My role: Full-stack Developer**
+**My role: Full-stack Blockchain Developer**
 
+- ⛓️ Worked on the **core smart contracts**, with its own **pump.fun-style** token launch mechanics
 - ⚙️ Built the **entire CI/CD pipeline**, from commit to automated build, test and deploy
 - ☁️ Hosted the **backend on Google Cloud Run**, containerised with Docker
 - 📈 Designed a **robust, scalable system** that handles traffic growth and stays reliable under load
