@@ -17,9 +17,7 @@
 - 🏗️ **Server-side & infrastructure:** I design and run **scalable hosting environments**, containerised services, cloud deployments and automated delivery pipelines
 - 🧠 **AI / LLM applications:** I build agent and LLM-powered apps with **LangChain** (chains, tools, retrieval, agents)
 - ⛓️ **Web3:** one area among several, with experience in Solidity, Solana programs and EVM infra
-- 🔭 **Currently working on:**
-  - [**app.cropr.finance**](https://app.cropr.finance) 🌾
-  - [**cracker.fun**](https://cracker.fun) 🎮
+- 🔭 **Currently working on:** [**Cracker.fun**](https://cracker.fun) and [**Cropr Finance**](https://app.cropr.finance), see the [spotlight below](#-currently-building) 👇
 - 🤖 **AI-native workflow:** I use AI agents daily to boost productivity and ship fast, using AI efficiently to bring out the best quality in the product while keeping speed high
 - ☁️ Comfortable on **GCP**, containerising with **Docker** and automating delivery with **CI/CD**
 - 📍 Gurugram, India
@@ -91,10 +89,40 @@
 
 ## 🔥 Currently Building
 
-| Project | Link |
-|---|---|
-| 🌾 **Cropr Finance** | [app.cropr.finance](https://app.cropr.finance) |
-| 🎮 **Cracker.fun** | [cracker.fun](https://cracker.fun) |
+<div align="center">
+
+![Status](https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-22c55e?style=for-the-badge)
+
+</div>
+
+### 🎮 [Cracker.fun](https://cracker.fun)
+> **Launch a token, earn forever.** A token-launch platform where creators launch tokens and keep earning from them over time.
+
+**My role: Full-stack Developer**
+
+- ⚙️ Built the **entire CI/CD pipeline**, from commit to automated build, test and deploy
+- ☁️ Hosted the **backend on Google Cloud Run**, containerised with Docker
+- 📈 Designed a **robust, scalable system** that handles traffic growth and stays reliable under load
+- 🖥️ Worked across the stack: frontend, backend services and infrastructure
+
+![GCP Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+🔗 **[Visit cracker.fun →](https://cracker.fun)**
+
+<br/>
+
+### 🌾 [Cropr Finance](https://app.cropr.finance)
+> **The Digital Asset Copilot.** Portfolio intelligence, risk analysis and controlled execution for professional investors and institutions across digital asset markets, without giving up custody.
+
+**My role: Full-stack Developer**
+
+- 📊 Building the digital asset portfolio and execution platform used by institutions and professional operators
+- 🔐 Non-custodial by design: from fragmented positions to informed decisions and controlled execution
+
+🔗 **[Open app.cropr.finance →](https://app.cropr.finance)** · [Website](https://cropr.finance)
 
 ---
 
