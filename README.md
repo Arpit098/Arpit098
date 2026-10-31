@@ -149,7 +149,7 @@
 
 <img src="https://streak-stats.demolab.com?user=Arpit098&background=0D0D0D&ring=3B82F6&fire=EF4444&currStreakNum=E5E5E5&currStreakLabel=3B82F6&sideNums=E5E5E5&sideLabels=9CA3AF&dates=9CA3AF&stroke=2A2A2A&hide_border=true" />
 
-<img src="https://ghchart.rshah.org/3B82F6/Arpit098" width="100%" alt="Contribution graph" />
+<img src="assets/calendar.svg" width="100%" alt="Contribution calendar" />
 
 </div>
 
