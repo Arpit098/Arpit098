@@ -100,6 +100,7 @@
 ### [Cropr Finance](https://app.cropr.finance)
 
 <br clear="left"/>
+
 > **The Digital Asset Copilot.** Portfolio intelligence, risk analysis and controlled execution for professional investors and institutions across digital asset markets, without giving up custody.
 
 **My role: Full-stack Developer**
@@ -116,6 +117,7 @@
 ### [Cracker.fun](https://cracker.fun)
 
 <br clear="left"/>
+
 > **Launch a token, earn forever.** A token-launch platform where creators launch tokens and keep earning from them over time.
 
 **My role: Full-stack Developer**
