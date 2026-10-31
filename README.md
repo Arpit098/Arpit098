@@ -167,7 +167,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Arpit098-181717?style=for-the-badge&logo=github)](https://github.com/Arpit098)
-[![Email](https://img.shields.io/badge/Email-bifrost6399@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bifrost6399@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arpitagrawal3048@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitagrawal3048@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
