@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arpit%20Agrawala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<img src="assets/banner.svg" width="100%" alt="Arpit Agrawala, Software Engineer" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer;Scalable+server-side+%26+cloud+hosting;LLM+apps+with+LangChain;Web3+%7C+AI-assisted+development;Based+in+Gurugram%2C+India)](https://git.io/typing-svg)
 

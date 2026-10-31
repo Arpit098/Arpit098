@@ -1,0 +1,86 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Arpit Agrawala, Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#090618"/>
+      <stop offset="0.55" stop-color="#1a1250"/>
+      <stop offset="1" stop-color="#0a1a3a"/>
+    </linearGradient>
+    <linearGradient id="name" x1="60" y1="0" x2="640" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#7c3aed"/>
+      <stop offset="0.7" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orbA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="300"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+
+    <!-- drifting glow orbs -->
+    <circle cx="260" cy="90" r="240" fill="url(#orbA)">
+      <animate attributeName="cx" values="260;340;260" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="90;130;90" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="210" r="230" fill="url(#orbB)">
+      <animate attributeName="cx" values="980;900;980" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="210;160;210" dur="14s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- network graph (right side) -->
+    <g stroke="#a78bfa" stroke-opacity="0.35" stroke-width="1.2">
+      <line x1="800" y1="70" x2="900" y2="130"/>
+      <line x1="900" y1="130" x2="1010" y2="80"/>
+      <line x1="900" y1="130" x2="960" y2="215"/>
+      <line x1="1010" y1="80" x2="1100" y2="150"/>
+      <line x1="960" y1="215" x2="1100" y2="150"/>
+      <line x1="960" y1="215" x2="850" y2="240"/>
+      <line x1="1100" y1="150" x2="1150" y2="235"/>
+      <line x1="800" y1="70" x2="850" y2="240" stroke-opacity="0.15"/>
+    </g>
+    <g>
+      <circle cx="800" cy="70" r="6" fill="#a78bfa"><animate attributeName="r" values="5;8;5" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="900" cy="130" r="9" fill="#7c3aed"><animate attributeName="r" values="8;12;8" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="1010" cy="80" r="6" fill="#22d3ee"><animate attributeName="r" values="5;8;5" dur="3.5s" repeatCount="indefinite"/></circle>
+      <circle cx="960" cy="215" r="8" fill="#22d3ee"><animate attributeName="r" values="7;11;7" dur="4.5s" repeatCount="indefinite"/></circle>
+      <circle cx="1100" cy="150" r="7" fill="#a78bfa"><animate attributeName="r" values="6;9;6" dur="3.2s" repeatCount="indefinite"/></circle>
+      <circle cx="850" cy="240" r="5" fill="#7c3aed"/>
+      <circle cx="1150" cy="235" r="5" fill="#22d3ee"/>
+    </g>
+
+    <!-- code-style accents -->
+    <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#a78bfa" fill-opacity="0.45">
+      <text x="700" y="268">{ scalable: true }</text>
+      <text x="1010" y="40">&lt;/&gt;</text>
+    </g>
+
+    <!-- text -->
+    <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+      <text x="64" y="112" font-size="20" font-weight="500" fill="#22d3ee" letter-spacing="4">HELLO, I'M</text>
+      <text x="62" y="186" font-size="72" font-weight="800" fill="url(#name)">Arpit Agrawala</text>
+      <text x="64" y="232" font-size="26" font-weight="500" fill="#e9e5ff">Software Engineer</text>
+      <text x="64" y="266" font-size="16" fill="#a5a0d0" letter-spacing="1.5">Backend  ·  Cloud  ·  AI Agents  ·  Web3</text>
+    </g>
+
+    <!-- bottom accent bar -->
+    <rect y="294" width="1200" height="6" fill="url(#accent)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
