@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-- 💻 **Software engineer** who builds end to end: backend services, cloud infrastructure, CI/CD pipelines and polished frontends
+- 💻 **Software engineer** who builds end to end: backend services, cloud infrastructure, CI/CD pipelines, polished frontends, **Web3 applications and smart contracts**
 - 🏗️ **Server-side & infrastructure:** I design and run **scalable hosting environments**, containerised services, cloud deployments and automated delivery pipelines
 - 🧠 **AI / LLM applications:** I build agent and LLM-powered apps with **LangChain** (chains, tools, retrieval, agents)
 - ⛓️ **Web3:** one area among several, with experience in Solidity, Solana programs and EVM infra
